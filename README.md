@@ -1,4 +1,5 @@
-                                            Hand Recognition System 
+                                            HAND RECOGNITION SYSTEM
+                                            -----------------------
 This is a hand recognition system that uses knuckles as its main feature to see if a person - when providing their hand to the system- is registered in the database or not.
 
 We segment the hand from the background using the intensity slicing technique. Then, We extract the fingers only by excluding the palm and applying some morphological operations.
@@ -26,7 +27,7 @@ Functions Descriptions:
 
 ->main.m: The matching process happens here and all the functions call.
 
-                                           -------------------------------
+                                ---------------------------------------------------------------
 
 DB Description:
 ---------------
