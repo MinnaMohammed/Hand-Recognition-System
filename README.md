@@ -33,7 +33,19 @@ DB Description:
 ---------------
 we got images from 33 subjects.from each subject we gathered 6 images, 4 of them are used for training and 2 for testing. those are real images taken from people around us from different ages and genders with their phones doing different poses to have a diverse DB to work with.
 
-
-
+Testing Dataset:
+--
 ![testgit](https://github.com/MinnaMohammed/Hand-Recognition-System/assets/84049808/39de3384-652b-47bc-b375-3e04fcb8aeb9)
+
+Training Dataset:
+--
+![trainknucklesgit](https://github.com/MinnaMohammed/Hand-Recognition-System/assets/84049808/23e290e5-745f-40ba-a78d-0b85ffb6e54e)
+
+Extracted knuckles samples from the testing dataset:
+--
+![testknucklesgit](https://github.com/MinnaMohammed/Hand-Recognition-System/assets/84049808/09fcdb2d-3407-4478-b3c7-e5e06eaee1a3)
+
+Extracted knuckles samples from the training dataset:
+--
+![traingit](https://github.com/MinnaMohammed/Hand-Recognition-System/assets/84049808/a7b08fa2-9e76-4f4d-82a5-780726248172)
 
