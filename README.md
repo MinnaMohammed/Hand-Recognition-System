@@ -13,7 +13,7 @@ After training the classifier we give it the test dataset to get the accuracy.
 
 In the matching step, We will provide the classifier with a new image of a person registered in the database and another that is not registered and the most repeated number in the matching labels that comes out of the classifier will be the person matched in the database.
 
-                                           -------------------------------        
+                               ---------------------------------------------------------------
 Functions Descriptions:
 -----------------------
 ->SegmentKnuckles.m: This function is responsible for segmenting the knuckles and has all the preprocessing steps used for extracting the knuckles.
