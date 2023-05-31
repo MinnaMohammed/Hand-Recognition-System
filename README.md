@@ -32,3 +32,8 @@ Functions Descriptions:
 DB Description:
 ---------------
 we got images from 33 subjects.from each subject we gathered 6 images, 4 of them are used for training and 2 for testing. those are real images taken from people around us from different ages and genders with their phones doing different poses to have a diverse DB to work with.
+
+
+
+![testgit](https://github.com/MinnaMohammed/Hand-Recognition-System/assets/84049808/39de3384-652b-47bc-b375-3e04fcb8aeb9)
+
