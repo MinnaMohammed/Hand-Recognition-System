@@ -35,7 +35,7 @@ we got images from 33 subjects.from each subject we gathered 6 images, 4 of them
 
 Testing Dataset:
 --
-![testgit](https://github.com/MinnaMohammed/Hand-Recognition-System/assets/84049808/39de3384-652b-47bc-b375-3e04fcb8aeb9)
+![testgit](https://github.com/MinnaMohammed/Hand-Recognition-System/assets/84049808/bffb6706-f5c1-4e95-b770-75b752020b02)
 
 Training Dataset:
 --
@@ -43,9 +43,9 @@ Training Dataset:
 
 Extracted knuckles samples from the testing dataset:
 --
-![testknucklesgit](https://github.com/MinnaMohammed/Hand-Recognition-System/assets/84049808/09fcdb2d-3407-4478-b3c7-e5e06eaee1a3)
+![testknucklesgit](https://github.com/MinnaMohammed/Hand-Recognition-System/assets/84049808/985bd77b-02ab-4016-a423-af46e3ac266b)
 
 Extracted knuckles samples from the training dataset:
 --
-![traingit](https://github.com/MinnaMohammed/Hand-Recognition-System/assets/84049808/a7b08fa2-9e76-4f4d-82a5-780726248172)
+![trainknucklesgit](https://github.com/MinnaMohammed/Hand-Recognition-System/assets/84049808/1b7f3d1f-5415-45c5-8372-6551300f308d)
 
